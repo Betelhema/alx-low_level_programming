@@ -26,7 +26,7 @@ if (c + i + k + j == 227 && c == 57)
 {
 break;
 }
- else
+else
 {
 putchar(',');
 putchar(' ');
@@ -39,6 +39,4 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
-
-
 
