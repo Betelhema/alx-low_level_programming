@@ -1,9 +1,9 @@
 #include<stdlib.h>
 #include<time.h>
 /**
-* main - Prints a text according number
+*main - Prints a text according number
 *
-* Return: Always (Success)
+*Return: Always (Success)
 */
 int main(void)
 {
