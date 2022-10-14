@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
 *main - Prints 3 combination of numbers
 *
@@ -30,5 +30,6 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
+
 
 
