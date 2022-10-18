@@ -1,3 +1,6 @@
+#ifndef MAIN_H
+#define MAIN_H
+
 char_putchar(char c);
 voidprint_alphabet(void);
 voidprint_alphabet_x10(void);
@@ -12,6 +15,7 @@ intadd(int, int);
 voidprint_to_98(int n);
 voidprint_times_table(int n);
 
+#endif
 
 
 
