@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
 *numLength - returns the lenth of string
 *@num : operand number
@@ -49,6 +49,6 @@ printf("\n");
 i++;
 }
 return (0);
-  
+
 
   
