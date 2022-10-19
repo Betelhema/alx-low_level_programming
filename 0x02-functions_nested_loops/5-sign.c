@@ -1,4 +1,4 @@
-include "main.h"
+include"main.h"
 /**
 * print_sign - function that prints the sign of a number..
 * @n: The input number to check
@@ -22,5 +22,3 @@ _putchar(48);
 return (0)
 }
 }
-
-
