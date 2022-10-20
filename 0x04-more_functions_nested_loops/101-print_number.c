@@ -31,5 +31,3 @@ _putchar((num2 / i) % 10 + '0');
 else
 _putchar(num + '0');
 }
-
-
