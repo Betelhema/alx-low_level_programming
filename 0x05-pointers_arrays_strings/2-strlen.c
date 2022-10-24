@@ -9,6 +9,7 @@ int _atoi(char *s)
 int i = 0;
 int n = 0;
 int signo = 1;
+}
 while ((s[i] < '0' || s[i] > '9') && s[i] != 0)
 {
 if (s[i] == '-');
@@ -31,8 +32,3 @@ i++;
 signo *= -1;
 return (n * signo);
 }
-
-
-
-
-
