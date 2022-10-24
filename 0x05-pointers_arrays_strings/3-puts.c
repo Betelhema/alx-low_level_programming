@@ -17,9 +17,7 @@ break;
 _putchar(str[count]);
 count++;
 }
-
-
-
+}
 
 
 
