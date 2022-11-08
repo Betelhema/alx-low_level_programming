@@ -22,6 +22,6 @@ while (j < i)
 {
 dup[j] = str[j];
 j += 1;
-}  
+}
 return (dup);
 }
